@@ -25,14 +25,8 @@
 <b>Código postal: </b>
 <input type="varchar" name="cp"><br><br>
 
-
-<input type="submit" value="SUBMIT">
-</form>
-
-
-<b>En caso de ser administrador y desee consultar un cliente:</b>
-<form>
-<input type="button" value="Buscar cliente">
+<input type="submit" value="BUSCAR">
+<input type="submit" value="CREAR CLIENTE">
 </form>
 
 </body>
