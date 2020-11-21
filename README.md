@@ -3,6 +3,7 @@
 For any comments or questions, feel free to contact us:
 
 Lucrecia Beltz González --> lucreciabeltz@gmail.com 
+
 Paola González Hernández --> paaoogh@gmail.com
 
 ## Description:
