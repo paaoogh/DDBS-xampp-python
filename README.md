@@ -11,6 +11,6 @@ This is ONLY A CLASS EXCERCISE, not intended for comercialization.
 1. When downloading this project, make sure that the folder "testing" is in htdocs of your ampp distribution. 
 
 ## INSTRUCTIONS
-Open in a web browser: hhtp://localhost/testing/test/
+Open in a web browser: hhtp://localhost/test/test/
 Stage 1: were are still supposing you have the database already mounted on your ampp.
 
