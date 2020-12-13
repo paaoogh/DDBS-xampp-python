@@ -10,8 +10,9 @@ Paola González Hernández --> paaoogh@gmail.com
 Emulation of a distributed database system: 2 nodes within the same server and registries devided into them, i.e. horizontal division. 
 
 ## Pre-requirements:
-1. Having installed any version of lampp/wampp/xampp/ in your computer.
-2. Python modules: mysql, mariadb, sys.
+1. Python modules: mysql, mariadb, sys.
+2. Python modules: tkinter.
+3. Database Management System Installed with user and password.
 
 ## Disclaimers:
 1. This is ONLY A CLASS EXCERCISE, not intended for comercialization.
@@ -22,6 +23,4 @@ Emulation of a distributed database system: 2 nodes within the same server and r
 
 ## INSTRUCTIONS
 1. Clone the folder *test* into your htdocs folder
-2. Open in a web browser: hhtp://localhost/test/test/
-
-Stage 1: were are still supposing you have the database already mounted on your ampp.
+2. Run the file main.py with Python 3.x
