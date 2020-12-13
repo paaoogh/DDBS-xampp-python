@@ -1,0 +1,4 @@
+{"creation":"CREATE DATABASE ",
+"clientes":"CREATE TABLE cliente(nombre VARCHAR(30) CHARACTER SET utf8 COLLATE utf8_spanish_ci, apellido1 VARCHAR(20) CHARACTER SET utf8 COLLATE utf8_spanish_ci, apellido2 VARCHAR(20) CHARACTER SET utf8 COLLATE utf8_spanish_ci, rfc VARCHAR(13) PRIMARY KEY);",
+"direcciones":"CREATE TABLE direcciones(id_dir INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY, calle VARCHAR(50) CHARACTER SET utf8 COLLATE utf8_spanish_ci, numero VARCHAR(5) , colonia VARCHAR(50) CHARACTER SET utf8 COLLATE utf8_spanish_ci, cp INT(5), rfc VARCHAR(13) NOT NULL, FOREIGN KEY (rfc) REFERENCES cliente(rfc));"
+}
